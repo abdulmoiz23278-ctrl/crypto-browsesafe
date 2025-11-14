@@ -1,0 +1,13 @@
+[
+  { "domain": "metamask.io" },
+  { "domain": "uniswap.org" },
+  { "domain": "binance.com" },
+  { "domain": "coinbase.com" },
+  { "domain": "lido.fi" },
+  { "domain": "ledger.com" },
+  { "domain": "trezor.io" },
+  { "domain": "aave.com" },
+  { "domain": "curve.fi" },
+  { "domain": "arbitrum.io" },
+  { "domain": "optimism.io" }
+]
